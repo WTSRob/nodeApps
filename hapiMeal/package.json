@@ -1,0 +1,28 @@
+{
+  "name": "hapimeal",
+  "version": "1.0.0",
+  "description": "Hapi Testing",
+  "main": "hapiMeal.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WTSRob/nodeApps.git"
+  },
+  "keywords": [
+    "npm",
+    "hapijs"
+  ],
+  "author": "Robert Walls <rob@walls.solutions>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WTSRob/nodeApps/issues"
+  },
+  "homepage": "https://github.com/WTSRob/nodeApps#readme"
+}
