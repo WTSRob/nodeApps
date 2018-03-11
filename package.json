@@ -1,0 +1,31 @@
+{
+  "name": "nodeapps",
+  "version": "1.0.0",
+  "description": "Test Apps using Nodejs",
+  "main": "hapiMeal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Allen Walls III",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WTSRob/nodeApps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WTSRob/nodeApps/issues"
+  },
+  "homepage": "https://github.com/WTSRob/nodeApps#readme"
+}
